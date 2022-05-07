@@ -6,7 +6,8 @@ This is a [Ruby on Rails with Postgres](https://rubyonrails.org) template config
 
 Click the button below to start a new development environment:
 
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/gitpod-io/template-ruby-on-rails-postgres)
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](
+https://gitpod.io/#https://github.com/paulrschrater/rails_gitpod)
 
 ## Get Started With Your Own Project
 
